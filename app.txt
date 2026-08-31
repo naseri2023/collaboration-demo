@@ -2,3 +2,4 @@ Collaboration Demo Project
 Version 1.0
 This project demonstrates a simple GitHub collaboration workflow.
 It is designed to help developers practice Issues, Branches, Pull Requests, Code Reviews, and CI.
+Conflict test: Version B
