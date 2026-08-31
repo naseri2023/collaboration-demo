@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+
+This project demonstrates a simple GitHub collaboration workflow.
