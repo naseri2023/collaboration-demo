@@ -21,3 +21,6 @@ It covers Issues, Branches, Pull Requests, Code Reviews, Merge, Rebase, Conflict
 ## Continuous Integration
 
 A GitHub Actions workflow automatically runs on every push and Pull Request to verify that the CI pipeline is working correctly.
+## Git Workflow
+
+This repository demonstrates a basic collaborative Git workflow.
